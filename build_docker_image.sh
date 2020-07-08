@@ -1,0 +1,1 @@
+docker build -t cmeyr/stylegan2-tf2:latest .
